@@ -16,7 +16,7 @@ module.exports = {
       path: path.resolve(__dirname, './dist/'),
       filename: './js/[name].js',
   },
-  mode: 'none',
+  mode: 'development',
   watch: true,
   watchOptions: {
     ignored: /node_modules/
@@ -62,6 +62,19 @@ module.exports = {
       inject: false
     }),
     new HtmlWebpackPlugin(),
+    /*new HtmlBeautifyPlugin({
+      config: {
+        html: {
+          end_with_newline: true,
+          indent_size: 2,
+          indent_with_tabs: true,
+          indent_inner_html: true,
+          preserver_newlines: true,
+          unformatted: [ 'p', 'i', 'b', 'span' ]
+        }
+      },
+      replace: [ ' type="text/javascript"' ]
+    }),*/
     new FixStyleOnlyEntriesPlugin(),
     new MiniCSSExtractPlugin({
       filename: "./css/[name].css",
