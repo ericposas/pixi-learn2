@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "mario_tilset_seq001.png",
+	"frame": {"x":0,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq002.png",
+	"frame": {"x":18,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq003.png",
+	"frame": {"x":36,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq004.png",
+	"frame": {"x":54,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq005.png",
+	"frame": {"x":72,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq006.png",
+	"frame": {"x":90,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq007.png",
+	"frame": {"x":108,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq008.png",
+	"frame": {"x":126,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq009.png",
+	"frame": {"x":144,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+},
+{
+	"filename": "mario_tilset_seq0010.png",
+	"frame": {"x":162,"y":0,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25},
+  "defaultAnchor": {"x":0,"y":0}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mario_tileset.png",
+	"format": "RGBA8888",
+	"size": {"w":180,"h":25},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7a3458c5f6b54e7eb8c2b805d169c90d:358827a1f5d0f4690fd0f1d4ae64f58d:c4c9303ce8b9f69e331796477b817b09$"
+}
+}
